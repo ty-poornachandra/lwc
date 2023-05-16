@@ -7,6 +7,7 @@ public class AccoountInsert {
           	clist.add(con);  
         }
         insert clist;
+                //commit througth merge branch
         return 'Contacts are inserted';
     }
 }
